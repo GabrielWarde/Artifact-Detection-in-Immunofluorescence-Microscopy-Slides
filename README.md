@@ -1,4 +1,4 @@
 # M1-internship
 
-Here you can find in this repository the different CNN models code used to perform a classification task of 3 classes (0: Anomaly Images, 1: Blurry Images, 2: Standard Images) on the AntiNuclear Antibodies dataset taken from the Centre Hospitalier Universitaire de Lille (CHU de Lille).
+This repository contains the code for various CNN models used to classify images into three categories: 0 for Anomaly Images, 1 for Blurry Images, and 2 for Standard Images. The dataset, which comprises images of AntiNuclear Antibodies, was provided by the Centre Hospitalier Universitaire de Lille (CHU de Lille).
 
